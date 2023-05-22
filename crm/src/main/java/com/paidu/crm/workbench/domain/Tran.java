@@ -150,7 +150,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.id
      *
      * @return the value of tbl_tran.id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getId() {
@@ -162,7 +161,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.id
      *
      * @param id the value for tbl_tran.id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setId(String id) {
@@ -174,7 +172,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.owner
      *
      * @return the value of tbl_tran.owner
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getOwner() {
@@ -186,7 +183,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.owner
      *
      * @param owner the value for tbl_tran.owner
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setOwner(String owner) {
@@ -198,7 +194,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.money
      *
      * @return the value of tbl_tran.money
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getMoney() {
@@ -210,7 +205,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.money
      *
      * @param money the value for tbl_tran.money
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setMoney(String money) {
@@ -222,7 +216,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.name
      *
      * @return the value of tbl_tran.name
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getName() {
@@ -234,7 +227,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.name
      *
      * @param name the value for tbl_tran.name
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setName(String name) {
@@ -246,7 +238,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.expected_date
      *
      * @return the value of tbl_tran.expected_date
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getExpectedDate() {
@@ -258,7 +249,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.expected_date
      *
      * @param expectedDate the value for tbl_tran.expected_date
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setExpectedDate(String expectedDate) {
@@ -270,7 +260,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.customer_id
      *
      * @return the value of tbl_tran.customer_id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getCustomerId() {
@@ -282,7 +271,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.customer_id
      *
      * @param customerId the value for tbl_tran.customer_id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setCustomerId(String customerId) {
@@ -294,7 +282,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.stage
      *
      * @return the value of tbl_tran.stage
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getStage() {
@@ -306,7 +293,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.stage
      *
      * @param stage the value for tbl_tran.stage
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setStage(String stage) {
@@ -318,7 +304,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.type
      *
      * @return the value of tbl_tran.type
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getType() {
@@ -330,7 +315,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.type
      *
      * @param type the value for tbl_tran.type
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setType(String type) {
@@ -342,7 +326,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.source
      *
      * @return the value of tbl_tran.source
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getSource() {
@@ -354,7 +337,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.source
      *
      * @param source the value for tbl_tran.source
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setSource(String source) {
@@ -366,7 +348,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.activity_id
      *
      * @return the value of tbl_tran.activity_id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getActivityId() {
@@ -378,7 +359,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.activity_id
      *
      * @param activityId the value for tbl_tran.activity_id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setActivityId(String activityId) {
@@ -390,7 +370,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.contacts_id
      *
      * @return the value of tbl_tran.contacts_id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getContactsId() {
@@ -402,7 +381,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.contacts_id
      *
      * @param contactsId the value for tbl_tran.contacts_id
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setContactsId(String contactsId) {
@@ -414,7 +392,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.create_by
      *
      * @return the value of tbl_tran.create_by
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getCreateBy() {
@@ -426,7 +403,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.create_by
      *
      * @param createBy the value for tbl_tran.create_by
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setCreateBy(String createBy) {
@@ -438,7 +414,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.create_time
      *
      * @return the value of tbl_tran.create_time
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getCreateTime() {
@@ -450,7 +425,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.create_time
      *
      * @param createTime the value for tbl_tran.create_time
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setCreateTime(String createTime) {
@@ -462,7 +436,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.edit_by
      *
      * @return the value of tbl_tran.edit_by
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getEditBy() {
@@ -474,7 +447,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.edit_by
      *
      * @param editBy the value for tbl_tran.edit_by
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setEditBy(String editBy) {
@@ -486,7 +458,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.edit_time
      *
      * @return the value of tbl_tran.edit_time
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getEditTime() {
@@ -498,7 +469,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.edit_time
      *
      * @param editTime the value for tbl_tran.edit_time
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setEditTime(String editTime) {
@@ -510,7 +480,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.description
      *
      * @return the value of tbl_tran.description
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getDescription() {
@@ -522,7 +491,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.description
      *
      * @param description the value for tbl_tran.description
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setDescription(String description) {
@@ -534,7 +502,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.contact_summary
      *
      * @return the value of tbl_tran.contact_summary
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getContactSummary() {
@@ -546,7 +513,6 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.contact_summary
      *
      * @param contactSummary the value for tbl_tran.contact_summary
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setContactSummary(String contactSummary) {
@@ -558,7 +524,6 @@ public class Tran {
      * This method returns the value of the database column tbl_tran.next_contact_time
      *
      * @return the value of tbl_tran.next_contact_time
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public String getNextContactTime() {
@@ -570,10 +535,12 @@ public class Tran {
      * This method sets the value of the database column tbl_tran.next_contact_time
      *
      * @param nextContactTime the value for tbl_tran.next_contact_time
-     *
      * @mbggenerated Sun May 21 23:01:42 CST 2023
      */
     public void setNextContactTime(String nextContactTime) {
         this.nextContactTime = nextContactTime == null ? null : nextContactTime.trim();
+    }
+
+    public void setPossibility(String possibility) {
     }
 }
